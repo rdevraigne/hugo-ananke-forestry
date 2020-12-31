@@ -17,7 +17,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: ''
-  site_logo: ''
+  site_logo: /images/IMG_4200.jpg
   description: The last theme you'll ever need. Maybe.
   facebook: ''
   twitter: 'https://twitter.com/GoHugoIO'
