@@ -34,3 +34,4 @@ params:
   background_color_class: blue
   featured_image: /images/gohugo-default-sample-hero-image.jpg
   recent_posts_number: 2
+  text-color: red
