@@ -22,6 +22,7 @@ params:
   facebook: ''
   twitter: 'https://twitter.com/GoHugoIO'
   instagram: ''
+  body_classes: baskerville bg-moon-gray
   youtube: ''
   github: ''
   gitlab: ''
