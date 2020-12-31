@@ -26,11 +26,11 @@ params:
   youtube: ''
   github: ''
   gitlab: ''
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/raphaeldevraigne/'
   mastodon: ''
   slack: ''
   stackoverflow: ''
   rss: ''
-  background_color_class: bg-black
+  background_color_class: blue
   featured_image: /images/gohugo-default-sample-hero-image.jpg
   recent_posts_number: 2
